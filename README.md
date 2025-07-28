@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%A4%97;+I'm+Hai+Dang!;" />
 </h1>
 
-<h3 align="center">🚀 A passionate Data Engineer from Vietnam 🇻🇳</h3>
+<h3 align="center">🚀 A passionate AI Engineer from Vietnam 🇻🇳</h3>
 
 <br/>
 
